@@ -1,0 +1,5 @@
+{
+    "message": "Cannot GET /api/v1/products=segun",
+    "error": "Not Found",
+    "statusCode": 404
+  }
